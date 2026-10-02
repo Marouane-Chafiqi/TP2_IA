@@ -1,4 +1,4 @@
-# TP 2 NLP : Du texte au vecteur
+# TP2:
 
 Salut, je suis Marouane Chafiqi, étudiant en master TEE.
 
